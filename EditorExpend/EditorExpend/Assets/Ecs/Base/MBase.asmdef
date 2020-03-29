@@ -1,0 +1,15 @@
+{
+    "name": "MBase",
+    "references": [
+        "GUID:14d747e4b35e3294da52b4888a5f2193"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "ILRuntimeConfig",
+    "references": [
+        "Ilr",
+        "MBase"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
